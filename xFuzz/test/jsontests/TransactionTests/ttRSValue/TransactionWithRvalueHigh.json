@@ -1,0 +1,24 @@
+{
+    "TransactionWithRvalueHigh" : {
+        "Byzantium" : {
+        },
+        "Constantinople" : {
+        },
+        "EIP150" : {
+        },
+        "EIP158" : {
+        },
+        "Frontier" : {
+        },
+        "Homestead" : {
+        },
+        "_info" : {
+            "comment" : "",
+            "filledwith" : "testeth 1.5.0.dev2-65+commit.1d4b0a0e",
+            "lllcversion" : "Version: 0.4.26-develop.2018.9.19+commit.785cbf40.Linux.g++",
+            "source" : "src/TransactionTestsFiller/ttRSValue/TransactionWithRvalueHighFiller.json",
+            "sourceHash" : "ab6759054737066cfb81107a3f61ce635b1b5a41333e106e339de4f5dcdc1c00"
+        },
+        "rlp" : "0xf85f800182520894095e7baea6a6c7c4c2dfeb977efac326af552d870b801ba0fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364140a08887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3"
+    }
+}

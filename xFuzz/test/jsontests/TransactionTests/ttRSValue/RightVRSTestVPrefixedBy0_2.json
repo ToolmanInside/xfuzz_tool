@@ -1,0 +1,24 @@
+{
+    "RightVRSTestVPrefixedBy0_2" : {
+        "Byzantium" : {
+        },
+        "Constantinople" : {
+        },
+        "EIP150" : {
+        },
+        "EIP158" : {
+        },
+        "Frontier" : {
+        },
+        "Homestead" : {
+        },
+        "_info" : {
+            "comment" : "",
+            "filledwith" : "testeth 1.5.0.dev2-65+commit.1d4b0a0e",
+            "lllcversion" : "Version: 0.4.26-develop.2018.9.19+commit.785cbf40.Linux.g++",
+            "source" : "src/TransactionTestsFiller/ttRSValue/RightVRSTestVPrefixedBy0_2Filler.json",
+            "sourceHash" : "6de06f8c06b74728c6415728a4326a4a764f32c753f13c6d946ff03746a2304c"
+        },
+        "rlp" : "0xf85f030182c73894b94f5374fce5edbc8e2a8697c15331677e6ebf0b0a8029a098ff921201554726367d2be8c804a7ff89ccf285ebc57dff8ae4c44b9c19ac4aa01887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3"
+    }
+}

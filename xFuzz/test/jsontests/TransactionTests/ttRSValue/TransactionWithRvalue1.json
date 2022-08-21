@@ -1,0 +1,36 @@
+{
+    "TransactionWithRvalue1" : {
+        "Byzantium" : {
+            "hash" : "2b119a7115433e5562109646abccd4ff6f3e713d4616278fd72ba76832f03ba5",
+            "sender" : "54df0af0fd1d8ad90b5a13ff1f95463aec055bab"
+        },
+        "Constantinople" : {
+            "hash" : "2b119a7115433e5562109646abccd4ff6f3e713d4616278fd72ba76832f03ba5",
+            "sender" : "54df0af0fd1d8ad90b5a13ff1f95463aec055bab"
+        },
+        "EIP150" : {
+            "hash" : "2b119a7115433e5562109646abccd4ff6f3e713d4616278fd72ba76832f03ba5",
+            "sender" : "54df0af0fd1d8ad90b5a13ff1f95463aec055bab"
+        },
+        "EIP158" : {
+            "hash" : "2b119a7115433e5562109646abccd4ff6f3e713d4616278fd72ba76832f03ba5",
+            "sender" : "54df0af0fd1d8ad90b5a13ff1f95463aec055bab"
+        },
+        "Frontier" : {
+            "hash" : "2b119a7115433e5562109646abccd4ff6f3e713d4616278fd72ba76832f03ba5",
+            "sender" : "54df0af0fd1d8ad90b5a13ff1f95463aec055bab"
+        },
+        "Homestead" : {
+            "hash" : "2b119a7115433e5562109646abccd4ff6f3e713d4616278fd72ba76832f03ba5",
+            "sender" : "54df0af0fd1d8ad90b5a13ff1f95463aec055bab"
+        },
+        "_info" : {
+            "comment" : "",
+            "filledwith" : "testeth 1.5.0.dev2-65+commit.1d4b0a0e",
+            "lllcversion" : "Version: 0.4.26-develop.2018.9.19+commit.785cbf40.Linux.g++",
+            "source" : "src/TransactionTestsFiller/ttRSValue/TransactionWithRvalue1Filler.json",
+            "sourceHash" : "6c3a4571ce479e8983c8d8947b5f4714afb1c46d9fe575ec10ab302651a79a8d"
+        },
+        "rlp" : "0xf83f800182520894095e7baea6a6c7c4c2dfeb977efac326af552d870b801b01a01fffd310ac743f371de3b9f7f9cb56c0b28ad43601b4ab949f53faa07bd2c804"
+    }
+}

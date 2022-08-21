@@ -1,0 +1,26 @@
+{
+    "TransactionWithSvalueHigh" : {
+        "Byzantium" : {
+        },
+        "Constantinople" : {
+        },
+        "EIP150" : {
+        },
+        "EIP158" : {
+        },
+        "Frontier" : {
+            "hash" : "c90d3b02eb65a7dd5087b0110c4ae34e9ce146402edc641d6f1d85a5c7a953f9",
+            "sender" : "474869ba435affa1f45aaada48520880921c0887"
+        },
+        "Homestead" : {
+        },
+        "_info" : {
+            "comment" : "",
+            "filledwith" : "testeth 1.5.0.dev2-65+commit.1d4b0a0e",
+            "lllcversion" : "Version: 0.4.26-develop.2018.9.19+commit.785cbf40.Linux.g++",
+            "source" : "src/TransactionTestsFiller/ttRSValue/TransactionWithSvalueHighFiller.json",
+            "sourceHash" : "1f24b282c9e85d58d07f2b836740309fb72cd1f0947d3079185b4c094e6a997c"
+        },
+        "rlp" : "0xf85f800182520894095e7baea6a6c7c4c2dfeb977efac326af552d870b801ba048b55bfa915ac795c431978d8a6a992b628d557da5ff759b307d495a36649353a0fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364140"
+    }
+}
