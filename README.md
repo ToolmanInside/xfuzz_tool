@@ -20,7 +20,8 @@ sudo apt-get update
 sudo apt-get install solc
 ```
 ### fuzzing engine
-How to install fuzzing engine can refer [this](https://githubmemory.com/repo/duytai/sFuzz).
+The installation guide of fuzzing engine can be found at [this](https://githubmemory.com/repo/duytai/sFuzz).
+
 ### static analysis tool
 [slither](https://github.com/crytic/slither).
 
