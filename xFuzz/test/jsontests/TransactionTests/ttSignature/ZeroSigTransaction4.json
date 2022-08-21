@@ -1,0 +1,24 @@
+{
+    "ZeroSigTransaction4" : {
+        "Byzantium" : {
+        },
+        "Constantinople" : {
+        },
+        "EIP150" : {
+        },
+        "EIP158" : {
+        },
+        "Frontier" : {
+        },
+        "Homestead" : {
+        },
+        "_info" : {
+            "comment" : "",
+            "filledwith" : "testeth 1.5.0.dev2-65+commit.1d4b0a0e",
+            "lllcversion" : "Version: 0.4.26-develop.2018.9.19+commit.785cbf40.Linux.g++",
+            "source" : "src/TransactionTestsFiller/ttSignature/ZeroSigTransaction4Filler.json",
+            "sourceHash" : "a0cba4916a361f86061fc1547c7f593d3bd962919bf4485561fb850e72999d33"
+        },
+        "rlp" : "0xdf030182c73894b94f5374fce5edbc8e2a8697c15331677e6ebf0b0a80038080"
+    }
+}
