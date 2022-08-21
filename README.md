@@ -23,7 +23,7 @@ sudo apt-get install solc
 The installation guide of fuzzing engine can be found at [this](https://githubmemory.com/repo/duytai/sFuzz).
 
 ### static analysis tool
-[slither](https://github.com/crytic/slither).
+We build our static analysis upon Slither. We suggest users install our customized Slither on [this]([https://github.com/crytic/slither](https://github.com/ToolmanInside/slither_for_xfuzz)).
 
 ### Start fuzzing using the command:
 ```
